@@ -12,7 +12,7 @@ repository = "https://github.com/LevKruglyak/limousine"
 num = "0.4.3"
 trait-set = "0.3.0"
 
-zstd-sys = "=2.0.9" # fix to avoid marble build issue
+zstd-sys = "=2.0.13" # fix to avoid marble build issue
 marble = "15.0"
 
 generational-arena = "0.2.9"
